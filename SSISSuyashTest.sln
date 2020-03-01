@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSISSuyashTest", "SSISSuyashTest\SSISSuyashTest.dtproj", "{D1171985-2194-498A-9895-318E7605297C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService", "WcfService\WcfService.csproj", "{61E02688-9C79-4E4F-B643-E58DCCCCE454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Development|Any CPU = Development|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1171985-2194-498A-9895-318E7605297C}.Debug|Any CPU.ActiveCfg = Development
+		{D1171985-2194-498A-9895-318E7605297C}.Debug|Any CPU.Build.0 = Development
+		{D1171985-2194-498A-9895-318E7605297C}.Development|Any CPU.ActiveCfg = Development
+		{D1171985-2194-498A-9895-318E7605297C}.Development|Any CPU.Build.0 = Development
+		{D1171985-2194-498A-9895-318E7605297C}.Release|Any CPU.ActiveCfg = Development
+		{D1171985-2194-498A-9895-318E7605297C}.Release|Any CPU.Build.0 = Development
+		{61E02688-9C79-4E4F-B643-E58DCCCCE454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E02688-9C79-4E4F-B643-E58DCCCCE454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E02688-9C79-4E4F-B643-E58DCCCCE454}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E02688-9C79-4E4F-B643-E58DCCCCE454}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{61E02688-9C79-4E4F-B643-E58DCCCCE454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E02688-9C79-4E4F-B643-E58DCCCCE454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCE48F22-EA1C-49BB-8ACA-D2CFCB98FC74}
+	EndGlobalSection
+EndGlobal
